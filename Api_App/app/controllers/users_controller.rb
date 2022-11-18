@@ -1,10 +1,12 @@
 class UsersController < ApplicationController
   before_action :set_user, only: %i[ show update destroy ]
 
+  UserLimit =3
+  
   # GET /users
   def index
-    @users = User.all
-
+    @page =params.fetch(:page,0).to_i
+    @users = User.offset(@page*UserLimit).limit(UserLimit)
     render json: @users
   end
 
