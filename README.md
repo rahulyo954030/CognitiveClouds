@@ -1,4 +1,4 @@
-# CognitiveClouds -- Ruby on Rail (API Assignment)
+# CognitiveClouds -- Ruby on Rails (API Assignment)
 
 <h3>Step 1: Type this command to start the server in your terminal.</h3>
 
