@@ -16,7 +16,7 @@ post : "http://localhost:3000/users"
 
 ```
 <p>Example:</p>
-<img src="https://i.ibb.co/X3wMQxZ/post-req.png"/>
+<img src="https://i.ibb.co/7yMF6Nk/post-req.png"/>
 <br/>
 <br/>
 
@@ -61,6 +61,6 @@ put : "http://localhost:3000/users/5"
 <br/>
 <br/>
 
-<h4>For any query you can reach out to me through given email address</h4>
-<h4>rahulyo954030@gmail.com</h4> <span>📧</span>
+<h4>👉 For any query you can reach out to me through given email address</h4>
+<h4>👉 rahulyo954030@gmail.com 📧</h4> 
  
