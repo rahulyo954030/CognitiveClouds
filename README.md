@@ -6,7 +6,7 @@
 rails server
 
 ```
-<br/>
+<br/>on Rail (API 
 
 
 <h3>Step 2: Adds new user to users table.</h3>
@@ -53,7 +53,7 @@ put : "http://localhost:3000/users/2"
 <h3>Step 6: Delete specific user in users table</h3>
 
 ```ruby
-put : "http://localhost:3000/users/5"
+delete : "http://localhost:3000/users/5"
 
 ```
 <p>Example:</p>
