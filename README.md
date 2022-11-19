@@ -61,6 +61,6 @@ put : "http://localhost:3000/users/5"
 <br/>
 <br/>
 
-<p>For any query you can reach out to me through given email address</p>
-<p>rahulyo954030@gmail.com</p>
+<h4>For any query you can reach out to me through given email address</h4>
+<h4>rahulyo954030@gmail.com</h4>
  
