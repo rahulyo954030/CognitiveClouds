@@ -43,7 +43,7 @@ get : "http://localhost:3000/users/2"
 <h3>Step 5: Update specific user in users table</h3>
 
 ```ruby
-put : "http://localhost:3000/users/2"
+put : "http://localhost:3000/users/8"
 
 ```
 <p>Example:</p>
