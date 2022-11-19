@@ -60,4 +60,7 @@ put : "http://localhost:3000/users/5"
 <img src="https://i.ibb.co/FDhbLqq/delete-req.png"/>
 <br/>
 <br/>
+
+<p>For any query you can reach out to me through given email address</p>
+<p>rahulyo954030@gmail.com</p>
  
