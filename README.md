@@ -6,7 +6,7 @@
 rails server
 
 ```
-<br/>on Rail (API 
+<br/> 
 
 
 <h3>Step 2: Adds new user to users table.</h3>
